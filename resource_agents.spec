@@ -1,5 +1,5 @@
 Name: resource-agents
-Version: 3.0.2
+Version: 3.0.3
 Release: %mkrel 1
 Summary: Fencing agents for cluster suite
 URL: http://sources.redhat.com/cluster/wiki/
