@@ -1,5 +1,5 @@
 Name: resource-agents
-Version: 3.0.3
+Version: 3.0.4
 Release: %mkrel 1
 Summary: Fencing agents for cluster suite
 Group: System/Kernel and hardware
