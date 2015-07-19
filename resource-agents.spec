@@ -1,7 +1,7 @@
 Summary:	Fencing agents for cluster suite
 Name:		resource-agents
 Version:	3.0.17
-Release:	9
+Release:	10
 Group:		System/Kernel and hardware
 License:	GPLv2
 Url:		http://sources.redhat.com/cluster/wiki/
