@@ -4,7 +4,7 @@ Version:	3.0.17
 Release:	11
 Group:		System/Kernel and hardware
 License:	GPLv2
-Url:		http://sources.redhat.com/cluster/wiki/
+Url:		https://sources.redhat.com/cluster/wiki/
 Source0:	https://fedorahosted.org/releases/c/l/cluster/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	pkgconfig(libccs)
