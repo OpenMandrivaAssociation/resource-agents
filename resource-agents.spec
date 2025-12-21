@@ -7,6 +7,11 @@ License:	GPLv2
 Url:		https://sources.redhat.com/cluster/wiki/
 Source0:	https://fedorahosted.org/releases/c/l/cluster/%{name}-%{version}.tar.gz
 BuildArch:	noarch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(libccs)
 BuildRequires:	pkgconfig(libcman)
 BuildRequires:	pkgconfig(liblogthread)
